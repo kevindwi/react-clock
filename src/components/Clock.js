@@ -11,7 +11,7 @@ class Clock extends Component {
   };
   componentDidMount() {
     this.timerID = setInterval(() => this.tick(), 1000);
-    fetch('http://ip-api.com/json')
+    fetch('https://extreme-ip-lookup.com/json/')
         .then( res => {
           if(res.status === 200)
           return res.json()
