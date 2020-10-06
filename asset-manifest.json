@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-clock/static/css/main.4073b722.chunk.css",
+    "main.js": "/react-clock/static/js/main.f10317cf.chunk.js",
+    "main.js.map": "/react-clock/static/js/main.f10317cf.chunk.js.map",
+    "runtime-main.js": "/react-clock/static/js/runtime-main.d0572cc1.js",
+    "runtime-main.js.map": "/react-clock/static/js/runtime-main.d0572cc1.js.map",
+    "static/js/2.fafa130e.chunk.js": "/react-clock/static/js/2.fafa130e.chunk.js",
+    "static/js/2.fafa130e.chunk.js.map": "/react-clock/static/js/2.fafa130e.chunk.js.map",
+    "index.html": "/react-clock/index.html",
+    "precache-manifest.317234013eb2758e021a58f03e4c1f3c.js": "/react-clock/precache-manifest.317234013eb2758e021a58f03e4c1f3c.js",
+    "service-worker.js": "/react-clock/service-worker.js",
+    "static/css/main.4073b722.chunk.css.map": "/react-clock/static/css/main.4073b722.chunk.css.map",
+    "static/js/2.fafa130e.chunk.js.LICENSE.txt": "/react-clock/static/js/2.fafa130e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-clock/static/media/OpenSans-Light.2d0bdc8d.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0572cc1.js",
+    "static/js/2.fafa130e.chunk.js",
+    "static/css/main.4073b722.chunk.css",
+    "static/js/main.f10317cf.chunk.js"
+  ]
+}
