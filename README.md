@@ -1,4 +1,4 @@
-#React Clock
+# React Clock
 
 Increase and Decrease the number of products
 
